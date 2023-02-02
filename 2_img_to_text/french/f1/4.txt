@@ -1,0 +1,48 @@
+e Lorsque le texte entre crochets à la même police que le contrat et est séparé par des ", "ou
+par le mot "ou", l'utilisateur devra choisir entre les options proposées.
+
+Exemple de blanc (.....…. ) avec des options entre crochets :
+
+Les commandes passées avant la fin du présent contrat qui donnent lieu à des ventes dans un
+délai inférieur à .…. [1, 2, 3, 6] mois permettront à l'agent de toucher une commission. Dans ce
+cas, l'utilisateur doit choisir entre les options 1,2,3 ou 6 mois et compléter avec l'une d'entre
+elles l'espace marqué avec des points suspensifs (.........… ).
+
+e Si le texte entre crochets est en italique, l'utilisateur devra alors insérer l'information
+demandée et supprimer le texte entre crochets.
+
+Exemple d'espace en blanc (...........… ) avec texte à insérer :
+
+Las parties décident, d'un commun accord, de soumettre le conflit au Règlement de conciliation
+et d'arbitrage de la Chambre de commerce international, par un ou plusieurs arbitres nommés
+conformément audit Règlement". Le lieu de l'arbitrage sera [ville et pays]". Dans
+ce cas, l'utilisateur doit insérer dans l'espace (............... ) la ville et le pays choisis pour l'arbitrage
+et supprimer le texte entre crochets [ville et pays].
+
+Clause sur les notifications
+
+Parfois, l'adresse des parties indiquée au début du contrat est différente de celle qui va être
+utilisée dans leurs rapports pendant la durée du contrat. Dans ce cas, il faudra inclure, à la fin
+du contrat, une clause sur les notifications.
+
+Exemple de clause sur les notifications :
+
+Notifications. Toute notification ou communication se fera aux adresses suivantes :
+
+- Partie 1... [insérer adresse complète].
+5 PATTIÉ Liver [insérer adresse complète].
+ANNEXES
+
+Des documents en rapport avec les clauses sont demeurés annexés aux contrats. Pour les
+annexes sont utilisés des formats d'utilité commune. L'utilisateur devra donc adapter leur
+format et contenu en fonction de l'espèce.
+
+SIGNATURES
+Signataires
+
+Les mandataires des parties pourront signer le contrat s'ils agissent en vertu d'une procuration
+authentique. En dessous de la signature du contrat, il faut indiquer le nom complet de la
+personne signataire et la fonction qu'elle occupe dans la société. Si l'une des parties est une
+personne physique (par exemple un agent commercial dans le contrat d'agence) c'est
+évidemment elle qui devra signer le contrat.
+
